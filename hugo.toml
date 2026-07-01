@@ -2,3 +2,14 @@ baseURL = 'https://cloud-furry-system.github.io/'
 locale = 'zh-cn'
 title = '我的个人博客'
 theme = 'hugo-PaperMod'
+
+[params]
+  author = 'Cloud-Furry-System'
+  description = '一个开源软件开发课程的学习博客'
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[params.homeInfoParams]
+  Title = "欢迎来到我的博客👋"
+  Content = "这里记录我的学习历程与技术分享"
